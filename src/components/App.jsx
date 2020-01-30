@@ -5,7 +5,7 @@ import contacts from "../contacts";
 function App() {
   return (
     <div>
-      <h1 className="heading">My Firs React App</h1>
+      <h1 className="heading">My First React App</h1>
       <Card
         name={contacts[0].name}
         img={contacts[0].imgURL}
