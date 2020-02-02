@@ -19,6 +19,14 @@ const contacts = [
       "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
     phone: "+918 372 574",
     email: "gmail@chucknorris.com"
+  },
+  {
+    name: "Aata Rchidi",
+    imgURL:
+      "https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/69206583_10157166307884279_2722544421353553920_o.jpg?_nc_cat=109&_nc_ohc=AGzgQB2faMsAX9eVtpD&_nc_ht=scontent.fybz2-1.fna&oh=75b37b5232a03ffdf0e3e61eddd68f0f&oe=5EC3F880",
+    phone: "+1 437 983 8081",
+    email: "atala.rchidi@gmail.com",
+    title: "Front-End developer"
   }
 ];
 
