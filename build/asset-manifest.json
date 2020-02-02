@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/My-contacts/static/js/main.d18f369b.chunk.js",
-    "main.js.map": "/My-contacts/static/js/main.d18f369b.chunk.js.map",
+    "main.js": "/My-contacts/static/js/main.f723bb17.chunk.js",
+    "main.js.map": "/My-contacts/static/js/main.f723bb17.chunk.js.map",
     "runtime-main.js": "/My-contacts/static/js/runtime-main.86445b1b.js",
     "runtime-main.js.map": "/My-contacts/static/js/runtime-main.86445b1b.js.map",
     "static/js/2.7887fd67.chunk.js": "/My-contacts/static/js/2.7887fd67.chunk.js",
     "static/js/2.7887fd67.chunk.js.map": "/My-contacts/static/js/2.7887fd67.chunk.js.map",
     "index.html": "/My-contacts/index.html",
-    "precache-manifest.a9b3e3e778fa6827c3a4fbc064f884fa.js": "/My-contacts/precache-manifest.a9b3e3e778fa6827c3a4fbc064f884fa.js",
+    "precache-manifest.054d94a792b3f934e992b5aff93cf841.js": "/My-contacts/precache-manifest.054d94a792b3f934e992b5aff93cf841.js",
     "service-worker.js": "/My-contacts/service-worker.js",
     "static/js/2.7887fd67.chunk.js.LICENSE": "/My-contacts/static/js/2.7887fd67.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.86445b1b.js",
     "static/js/2.7887fd67.chunk.js",
-    "static/js/main.d18f369b.chunk.js"
+    "static/js/main.f723bb17.chunk.js"
   ]
 }
