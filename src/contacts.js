@@ -21,12 +21,17 @@ const contacts = [
     email: "gmail@chucknorris.com"
   },
   {
-    name: "Aata Rchidi",
+    name: "Tony Stark",
+    imgURL:
+      "https://qph.fs.quoracdn.net/main-qimg-6a9e499dc7dc7aa615a9df6437a058db.webp",
+      phone: "+872 347 029",
+    email: "iron@man.com"
+  },
+  {
+    name: "Aata-allah Rchidi",
     imgURL:
       "https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/69206583_10157166307884279_2722544421353553920_o.jpg?_nc_cat=109&_nc_ohc=AGzgQB2faMsAX9eVtpD&_nc_ht=scontent.fybz2-1.fna&oh=75b37b5232a03ffdf0e3e61eddd68f0f&oe=5EC3F880",
-    phone: "+1 437 983 8081",
-    email: "atala.rchidi@gmail.com",
-    title: "Front-End developer"
+      title: "Front-End developer"
   }
 ];
 

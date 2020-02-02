@@ -1,11 +1,17 @@
 import React from "react";
 import Card from "./Card";
 import contacts from "../contacts";
+import Avatar from "./Avatar";
 
 function App() {
   return (
     <div>
       <h1 className="heading">My First React App</h1>
+      <h2>{contacts[4].name}</h2>
+      <h3>{contacts[4].title}</h3>
+
+      <Avatar avatarImg={contacts[4].imgURL}/>
+
       <Card
         name={contacts[0].name}
         img={contacts[0].imgURL}
@@ -29,7 +35,6 @@ function App() {
         img={contacts[3].imgURL}
         phone={contacts[3].phone}
         email={contacts[3].email}
-        title={contacts[3].title}
       />
     </div>
   );
