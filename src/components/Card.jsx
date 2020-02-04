@@ -13,6 +13,7 @@ function Card(props) {
         <Details detailInfo={props.phone} />
         <Details detailInfo={props.email} />
         <Details detailInfo={props.title} />
+        <Details detailInfo={props.passion} />
       </div>
     </div>
   );
