@@ -9,11 +9,12 @@ const contacts = [
   },
   {
     id:2,
-    name: "Beyoncé",
+    name: "Eduardo Guzman Diaz",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
-    phone: "+123 456 789",
-    email: "b@beyonce.com"
+      "https://m.media-amazon.com/images/M/MV5BMTQ5NzU2NDQ3NV5BMl5BanBnXkFtZTcwMjc2MTcxOA@@._V1_.jpg",
+    phone: "***-***-****",
+    email: "https://www.linkedin.com/in/eduardo-guzman-diaz-88852072/",
+    passion: "Loves to taste coffee's from all over the world. High altitude peruvian coffee is the best so far. "
   },
   {
     id:3,
